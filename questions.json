@@ -1,0 +1,323 @@
+{
+  "heading": "Select a Topic",
+  "topics": [
+    {
+      "heading": "Integers",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Evaluate and find the value of the given expression: (-344) + 234 -(-409) + 987",
+          "options": ["468", "1286", "-1286", "-468"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Given expression: (-344) + 234 -(-409) + 987. Evaluate the first part: (-344) + 234 = -110. Evaluate the second part: -(-409) = 409. Add the results from the first two steps: -110 + 409 = 299. Add the final term: 299 + 987 = 1286. Therefore, the value of the given expression is 1286."
+      },
+      {
+          "questionNo": 2,
+          "question": "Find the value of k in the following equation: 600 - (-202) - (-k) = -(-500)",
+          "options": ["-302", "302", "502", "-502"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Given equation: 600 - (-202) - (-k) = -(-500). Simplify the left side: 600 + 202 - (-k) = -(-500). Combine like terms: 802 - (-k) = 500. Simplify the right side: 802 - (-k) = 500. Solve for k: K = 500 - 802. Therefore, the value of k in the given equation is -302."
+      },
+      {
+          "questionNo": 3,
+          "question": "Arrange the following integers in ascending order: –2354, 2896, 0, –2087, 2674.",
+          "options": ["0, -2354, -2087, 2674, 2896", "-2354, -2087, 0, 2674, 2896", "-2087, -2354, 0, 2674, 2896", "2896, 2674, 0, -2087, -2354"],
+          "answer": 1,
+          "image": "",
+          "explanation": "In ascending order, the integers are arranged from smallest to largest value. While arranging integers in ascending order, the negative numbers come first as they are the smallest. Then comes zero and at last positive integers. The given numbers in ascending order will be: -2354, -2087, 0, 2674, 2896."
+      },
+      {
+          "questionNo": 4,
+          "question": "Evaluate the result of dividing the product of (-782) x (20) x (-10) x 5 by (-2).",
+          "options": ["-391000", "391000", "78200", "-78200"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Calculate the product of the first four numbers: (-782) x (20) x (-10) x 5 = 782 x 200 x 5 = 782000. Divide the result by (-2): 782000 ÷ (-2) = -391000. Therefore, the result of dividing the product is -391000."
+      }
+      ]
+    },
+    {
+      "heading": "Fractions",
+      "questions": [
+        {
+          "questionNo": 5,
+          "question": "Alice worked on her science project for 3/4 hours on Tuesday and 5/6 hours on Wednesday. How long did Alice work on the science project altogether?",
+          "options": ["12/19", "8/10", "19/12", "None of the above"],
+          "answer": 2,
+          "image": "",
+          "explanation": "To add these fractions, we need a common denominator. The least common denominator of 4 and 6 is 12. Convert 3/4 to 9/12 and 5/6 to 10/12. Add these two fractions: 9/12 + 10/12 = 19/12. Therefore, the correct answer is 19/12."
+      },
+      {
+          "questionNo": 6,
+          "question": "Leanne has a roll of ribbon 6m long. She needs pieces that are 3/4 m long. If she cuts the whole roll, how many pieces can she make?",
+          "options": ["4", "8", "6", "10"],
+          "answer": 1,
+          "image": "",
+          "explanation": "To find the number of pieces, divide the total length of the ribbon by the length of each piece: 6 metres ÷ 3/4 metre = 6 × 4/3 = 8 pieces. Therefore, Leanne can make 8 pieces."
+      },
+      {
+          "questionNo": 7,
+          "question": "Which of the given fractions is NOT an improper fraction?",
+          "options": ["956/942", "998/983", "912/922", "941/940"],
+          "answer": 2,
+          "image": "",
+          "explanation": "An improper fraction has a numerator greater than or equal to the denominator. In 912/922, the numerator (912) is less than the denominator (922), making it a proper fraction. The rest are improper fractions."
+      },
+      {
+          "questionNo": 8,
+          "question": "A fisherman recorded the weight of his catch, broken down by type of fish. By weight, what fraction of the catch was trout?",
+          "options": ["3/21", "7/21", "5/21", "4/21"],
+          "answer": 2,
+          "image": "4.jpg",
+          "explanation": "The total weight of fish is 4200 kg, and the weight of trout is 1000 kg. The fraction of the catch that was trout is 1000/4200, which simplifies to 5/21. Therefore, 5/21 of the catch was trout."
+      }
+        
+      ]
+    },
+    {
+      "heading": "Decimals",
+      "questions": [
+        {
+          "questionNo": 9,
+          "question": "Find the value of x. 3889 + 12.952 – x = 3854.002",
+          "options": ["47.095", "47.752", "47.932", "47.95"],
+          "answer": 3,
+          "image": "",
+          "explanation": "We have: 3889 + 12.952 – x = 3854.002. Simplify to: 3901.952 – x = 3854.002. Solving for x: x = 3901.952 – 3854.002 = 47.95. Therefore, the correct answer is 47.95."
+      },
+      {
+          "questionNo": 10,
+          "question": "By how much should 59.71 be decreased to get 34.58?",
+          "options": ["26.13", "24.14", "25.13", "24.12"],
+          "answer": 2,
+          "image": "",
+          "explanation": "Let x be the amount to decrease: 59.71 – x = 34.58. Solving for x: x = 59.71 – 34.58 = 25.13. Therefore, 25.13 should be decreased from 59.71 to get 34.58."
+      },
+      {
+          "questionNo": 11,
+          "question": "Find the value of 29.94 ÷ 1.45, if 2994 ÷ 14.5 = 172.",
+          "options": ["1.72", "17.2", "1.45", "14.5"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Given 2994 ÷ 14.5 = 172. Then, 29.94 ÷ 1.45 can be written as 299.4 ÷ 14.5, which simplifies to 172 × (1/10) = 17.2. Therefore, the value of 29.94 ÷ 1.45 is 17.2."
+      },
+      {
+          "questionNo": 12,
+          "question": "Write 0.072 as a percentage.",
+          "options": ["0.072%", "72%", "0.72%", "7.2%"],
+          "answer": 3,
+          "image": "",
+          "explanation": "To convert 0.072 into a percentage, multiply by 100: 0.072 × 100 = 7.2%. Therefore, 0.072 as a percentage is 7.2%."
+      },
+      {
+          "questionNo": 13,
+          "question": "Maria is tracking her expenses for a day. She starts with $50.75 in her wallet. She spends $15.20 on lunch and $8.45 on a book. Later, she finds $5.50 on the ground and adds it to her wallet. Finally, she buys a coffee for $3.80. Calculate Maria's final balance in her wallet at the end of the day.",
+          "options": ["$28.80", "$29.80", "$27.80", "$26.80"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Starting balance: $50.75. Subtract lunch: $50.75 − $15.20 = $35.55. Subtract the book: $35.55 − $8.45 = $27.10. Add found money: $27.10 + $5.50 = $32.60. Subtract coffee: $32.60 − $3.80 = $28.80. Therefore, Maria's final balance is $28.80."
+      },
+      {
+          "questionNo": 14,
+          "question": "If 47.2506 = 4A + 7/B + 2C + 5/D + 6E then what is the value of 5A + 3B + 6C + D + 3E?",
+          "options": ["15.36003", "15.3603", "153.6003", "153.603"],
+          "answer": 2,
+          "image": "",
+          "explanation": "Given 47.2506 = 4A + 7/B + 2C + 5/D + 6E. Comparing, we find: A = 10, B = 1, C = 0.1, D = 100, E = 0.0001. Then, 5A + 3B + 6C + D + 3E = 5 × 10 + 3 × 1 + 6 × 0.1 + 100 + 3 × 0.0001 = 50 + 3 + 0.6 + 100 + 0.0003 = 153.6003."
+      }
+      ]
+    },
+    {
+      "heading": "Divisibility rules",
+      "questions": [
+        {
+          "questionNo": 15,
+          "question": "If the number 481*673 is completely divisible by 9, then the smallest whole number in the place of * will be?",
+          "options": ["1", "3", "6", "7"],
+          "answer": 3,
+          "image": "",
+          "explanation": "To be divisible by 9, the sum of the digits must be divisible by 9. Sum of the digits: 4 + 8 + 1 + x + 6 + 7 + 3 = 29 + x. For divisibility by 9: 29 + x must be divisible by 9. If x = 7, then 29 + 7 = 36, which is divisible by 9. Therefore, the smallest number for * is 7."
+      },
+      {
+          "questionNo": 16,
+          "question": "Which number is divisible by both 2 and 3?",
+          "options": ["126", "100", "123", "133"],
+          "answer": 0,
+          "image": "",
+          "explanation": "A number divisible by both 2 and 3 is divisible by 6. 126 is even and the sum of its digits (1+2+6=9) is divisible by 3. Therefore, 126 is divisible by both 2 and 3."
+      },
+      {
+          "questionNo": 17,
+          "question": "If the number 517*324 is completely divisible by 3, then the smallest whole number in the place of * will be?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 0,
+          "image": "",
+          "explanation": "To be divisible by 3, the sum of the digits must be divisible by 3. Sum of the digits: 5 + 1 + 7 + x + 3 + 2 + 4 = 22 + x. For divisibility by 3: 22 + x must be divisible by 3. If x = 2, then 22 + 2 = 24, which is divisible by 3. Therefore, the smallest number for * is 2."
+      },
+      {
+          "questionNo": 18,
+          "question": "What is the smallest number that should be replaced by '*' in the number 296*12, to make it divisible by 12?",
+          "options": ["1", "2", "3", "4"],
+          "answer": 3,
+          "image": "",
+          "explanation": "To be divisible by 12, a number must be divisible by both 3 and 4. The last two digits of 296 are 96, which is divisible by 4. To make 296*12 divisible by 3, the sum of digits of 296*12 should be divisible by 3. The smallest number that satisfies this condition is 4, making the number divisible by 3. Therefore, the smallest number for * is 4."
+      },
+      {
+          "questionNo": 19,
+          "question": "The missing digit (x) which makes 347x divisible by 11 is:",
+          "options": ["5", "6", "7", "2"],
+          "answer": 1,
+          "image": "",
+          "explanation": "For divisibility by 11, the difference between the sum of digits in odd positions and even positions must be 0 or divisible by 11. For 347x: Sum of odd-positioned digits = 3 + 7 = 10; Sum of even-positioned digits = 4 + x. To satisfy the condition: 10 - (4 + x) should be 0 or divisible by 11. If x = 6, then 10 - (4 + 6) = 0. Therefore, the missing digit is 6."
+      }
+      ]
+    },
+    {
+      "heading": "Number sense",
+      "questions": [
+        {
+          "questionNo": 20,
+          "question": "A two-digit number 9x is a prime number. Find the value of x.",
+          "options": ["3", "1", "9", "7"],
+          "answer": 3,
+          "image": "",
+          "explanation": "We are given that the two-digit number 9x is a prime number. Testing possible values for x: 91 (x = 1), 93 (x = 3), 97 (x = 7), and 99 (x = 9). Only 97 is a prime number. Therefore, the value of x that makes 9x a prime number is 7."
+      },
+      {
+          "questionNo": 21,
+          "question": "Which of the following numbers is a three-digit prime number?",
+          "options": ["237", "331", "428", "519"],
+          "answer": 1,
+          "image": "",
+          "explanation": "To determine which of the given numbers is a three-digit prime number: A) 237 is not a prime number. B) 331 is a prime number. C) 428 is not a prime number. D) 519 is not a prime number. Therefore, 331 is the only three-digit prime number."
+      },
+      {
+          "questionNo": 22,
+          "question": "Which of the following is a prime number?",
+          "options": ["121", "81", "1331", "None of the above"],
+          "answer": 3,
+          "image": "",
+          "explanation": "A prime number is divisible only by 1 and itself. 121 = 11 x 11, 81 = 3 x 3 x 3 x 3, and 1331 = 11 x 11 x 11. Therefore, none of the options are prime numbers."
+      },
+      {
+          "questionNo": 23,
+          "question": "How many prime numbers are there between 20 and 50?",
+          "options": ["8", "5", "6", "7"],
+          "answer": 3,
+          "image": "",
+          "explanation": "The prime numbers between 20 and 50 are 23, 29, 31, 37, 41, 43, 47. Therefore, there are 7 prime numbers between 20 and 50."
+      }
+      ]
+    },
+    {
+      "heading": "Factors and multiples",
+      "questions": [
+        {
+          "questionNo": 24,
+          "question": "Which two numbers do not have 11 as their greatest common factor?",
+          "options": ["22 and 44", "33 and 55", "33 and 99", "11 and 101"],
+          "answer": 3,
+          "image": "",
+          "explanation": "To determine which two numbers do not have 11 as their greatest common factor (GCF), let's find the GCF of each pair:\nA) 22 and 44: GCF = 11\nB) 33 and 55: GCF = 11\nC) 11 and 101: GCF = 1 (since 1 is the largest common factor)\nD) 33 and 99: GCF = 11\nTherefore, the pair of numbers that do not have 11 as their greatest common factor is 11 and 101."
+      },
+      {
+          "questionNo": 25,
+          "question": "What number will come in place of a, b, and c in the given factor tree?",
+          "options": ["a = 7, b = 7 and c = 3", "a = 14, b = 7 and c = 2", "a = 14, b = 3 and c = 3", "a = 7, b = 14 and c = 2"],
+          "answer": 1,
+          "image": "1.jpg",
+          "explanation": "In the factor tree for 1260:\n1260 splits into 90 and 14:\n90 splits into 15 and 6:\n15 splits into 3 and 5:\n6 splits into 2 and 3:\n14 splits into 2 and 7.\nThe missing numbers are 14, 7, and 2."
+      },
+      {
+          "questionNo": 26,
+          "question": "Observe the given multiples of 37.\n41 x 2 = 82\n41 x 4 = 164\n41 x 6 = 246\n41 x 8 = 328\nFrom the given pattern, find the product of 41 and 12.",
+          "options": ["492", "The greatest three-digit number", "598", "The smallest three-digit number"],
+          "answer": 0,
+          "image": "",
+          "explanation": "We observe that the pattern involves multiplying 41 by even numbers. To find 41 x 12:\n41 x 12 = 41 x (8 + 4) = (41 x 8) + (41 x 4) = 328 + 164 = 492.\nTherefore, the product of 41 and 12 is 492."
+      }
+      ]
+    },
+    {
+      "heading": "HCF",
+      "questions": [
+        {
+          "questionNo": 27,
+          "question": "What is the HCF of 632, 790, 869?",
+          "options": ["89", "79", "68", "78"],
+          "answer": 1,
+          "image": "",
+          "explanation": "The HCF of 632, 790, and 869 is determined by their common factors. \n632 = 2 x 2 x 2 x 79\n790 = 2 x 5 x 79\n869 = 11 x 79\nThe only common factor is 79, so the HCF is 79."
+      },
+      {
+          "questionNo": 28,
+          "question": "The LCM of three different numbers is 120. Which of the following cannot be their HCF?",
+          "options": ["8", "12", "24", "35"],
+          "answer": 3,
+          "image": "",
+          "explanation": "Using the formula LCM × HCF = Product of the numbers, check possible HCF values:\n- For HCF = 8: Product = 120 × 8 = 960\n- For HCF = 12: Product = 120 × 12 = 1440\n- For HCF = 24: Product = 120 × 24 = 2880\n- For HCF = 35: Product = 120 × 35 = 4200\nThe product 4200 is not possible for three integers, so 35 cannot be the HCF."
+      },
+      {
+          "questionNo": 29,
+          "question": "Ava was calculating the HCF of 603 and 1092 by the long division method. Find the number that will come in place of ‘?’",
+          "options": ["214", "114", "113", "213"],
+          "answer": 1,
+          "image": "2.jpg",
+          "explanation": "By using the long division method to find the HCF of 603 and 1092, the number that will come in place of '?' is 114."
+      }
+      ]
+    },
+    {
+      "heading": "LCM",
+      "questions": [
+        {
+          "questionNo": 30,
+          "question": "What is the LCM of 702 and 1287?",
+          "options": ["7673", "7722", "6622", "8833"],
+          "answer": 1,
+          "image": "",
+          "explanation": "To find the LCM of 702 and 1287, use the prime factorization method:\nPrime factors of 702: 2 x 3 x 3 x 3 x 13\nPrime factors of 1287: 3 x 3 x 11 x 13\nThe LCM is the product of the highest powers of all prime factors: 2 x 3 x 3 x 3 x 11 x 13 = 7722."
+      },
+      {
+          "questionNo": 31,
+          "question": "Find out the LCM of 1134 and 1215.",
+          "options": ["17,010", "14,020", "16,020", "14,100"],
+          "answer": 1,
+          "image": "",
+          "explanation": "To find the LCM of 1134 and 1215, use the prime factorization method:\nPrime factors of 1134: 2 x 3 x 3 x 3 x 3 x 7\nPrime factors of 1215: 3 x 3 x 3 x 5 x 7\nThe LCM is the product of the highest powers of all prime factors: 2 x 3 x 3 x 3 x 3 x 5 x 7 = 17,010."
+      },
+      {
+          "questionNo": 32,
+          "question": "Clara used the division method to find out the LCM of 240, 280, and 350. Fill in the number that will come in blank spaces.",
+          "options": ["45", "55", "65", "35"],
+          "answer": 3,
+          "image": "3.jpg",
+          "explanation": "To find the LCM of 240, 280, and 350 using the division method, divide the numbers by the smallest prime numbers until all resulting numbers are 1. The missing number in the division table is 35."
+      }
+      ]
+    },
+    {
+      "heading": "HCF and LCM",
+      "questions": [
+        {
+          "questionNo": 33,
+          "question": "Sarah is making friendship bracelets. She wants to make bracelets that are 8 inches long and 12 inches long. What is the smallest length of string she can use for each bracelet if she doesn’t want to have any leftover string?",
+          "options": ["24", "25", "26", "29"],
+          "answer": 0,
+          "image": "",
+          "explanation": "To find the smallest length of string that Sarah can use for each bracelet without any leftover string, we need to calculate the LCM of 8 inches and 12 inches.\nPrime Factorisation Method:\n8 = 2 x 2 x 2\n12 = 2 x 2 x 3\nLCM(8, 12) = 2 x 2 x 2 x 3 = 24\nThe smallest number that appears in both lists is 24. Hence Sarah needs a string that is 24 inches long for each bracelet to avoid any leftover string."
+      },
+      {
+          "questionNo": 34,
+          "question": "Determine the minimum number of students needed to form groups for a school activity where they stand in rows of 15, 20, and 25 students each.",
+          "options": ["600", "400", "300", "500"],
+          "answer": 2,
+          "image": "",
+          "explanation": "To find the minimum number of students needed for the school activity to stand in rows of 15, 20, and 25, we must first calculate the least common multiple (LCM) of these numbers.\nLCM(15, 20, 25) = 300\nLCM = 2 x 2 x 3 x 5 x 5\nLCM = 300\nTherefore, LCM(15, 20, 25) = 300."
+      }
+      ]
+    }
+  ]
+}
